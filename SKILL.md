@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-fact-vs-judgment-classifier
-description: "Distinguish Arguments of Fact from Arguments of Judgment in architecture discussions." Use this when working on fitzpatrick fact vs judgment classifier.
+description: "Distinguish Arguments of Fact from Arguments of Judgment in architecture discussions. Use this when working on fitzpatrick fact vs judgment classifier."
 category: "Writing & Communication"
 triggers:
   - "fact vs judgment classifier"
